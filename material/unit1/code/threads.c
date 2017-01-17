@@ -37,4 +37,5 @@ exit(1); }
     pthread_join(p2, NULL);
     // Show final value for counter
     printf("Final value: %d\n", counter);
-￼￼￼￼return 0; }
+    return 0; 
+}
